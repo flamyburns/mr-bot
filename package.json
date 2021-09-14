@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  },
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "made it for my friend",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flamy",
+  "license": "ISC"
+}
